@@ -1,9 +1,8 @@
 body {
-background-image:url("1243.jpeg");
-background-repeat:no-repeat;
+background-image:url("1243.jpeg") ;
+background-repeat:no-repeat ;
 background-size:150%;
 }
-
 .MyDiv0 {
 text-align: center;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
